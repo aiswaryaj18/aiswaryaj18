@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Aiswarya J
-- As a dynamic Python Full-stack web developer, I am passionate about harnessing my expertise to propel organizational growth.Seeking opportunities to advance professionally and make impactful contributions to the dynamic field of web development.
-
+About Me
+A dynamic Python Full-stack web developer with a passion for leveraging technology to drive organizational growth. My goal is to continuously advance professionally while making impactful contributions to the dynamic field of web development.
 - 📫 How to reach me ...
 - 
   email: aiswaryajayalekshmi18@gmail.com
+  
   LinkedIn: Aiswarya Jayalekshmi
 
 <!---
